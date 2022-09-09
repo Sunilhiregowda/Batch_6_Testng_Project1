@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-09T09:54:10Z" name="Default suite" finished-at="2022-09-09T09:55:00Z" duration-ms="50013">
+    <groups>
+    </groups>
+    <test started-at="2022-09-09T09:54:10Z" name="Default test" finished-at="2022-09-09T09:55:00Z" duration-ms="50013">
+      <class name="testRunner.Tc0001">
+        <test-method is-config="true" signature="suiteBefore()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:09Z" name="suiteBefore" finished-at="2022-09-09T09:54:10Z" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteBefore -->
+        <test-method is-config="true" signature="testBefore()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:10Z" name="testBefore" finished-at="2022-09-09T09:54:16Z" duration-ms="5867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBefore -->
+        <test-method is-config="true" signature="classBefore()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:16Z" name="classBefore" finished-at="2022-09-09T09:54:42Z" duration-ms="26304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classBefore -->
+        <test-method signature="Search_Hotel()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:42Z" name="Search_Hotel" finished-at="2022-09-09T09:54:46Z" duration-ms="3772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search_Hotel -->
+        <test-method signature="Select_Hotel()[pri:1, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:46Z" name="Select_Hotel" finished-at="2022-09-09T09:54:48Z" duration-ms="2534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select_Hotel -->
+        <test-method signature="bookAHotel()[pri:2, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:48Z" name="bookAHotel" finished-at="2022-09-09T09:54:51Z" duration-ms="2545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookAHotel -->
+        <test-method signature="printOrderNo()[pri:3, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:51Z" name="printOrderNo" finished-at="2022-09-09T09:54:59Z" duration-ms="7727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printOrderNo -->
+        <test-method is-config="true" signature="testAfter()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:54:59Z" name="testAfter" finished-at="2022-09-09T09:55:00Z" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAfter -->
+        <test-method is-config="true" signature="suiteAfter()[pri:0, instance:testRunner.Tc0001@1bd39d3c]" started-at="2022-09-09T09:55:00Z" name="suiteAfter" finished-at="2022-09-09T09:55:00Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteAfter -->
+      </class> <!-- testRunner.Tc0001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
